@@ -5,7 +5,7 @@
 
 /**
  *
- * @author Hareem
+ * @author hareem
  */
 public class Client {
     
