@@ -1,0 +1,2 @@
+Client: msg:wow
+Server: ack:msg:🤖 I'm still learning. You said: "wow"

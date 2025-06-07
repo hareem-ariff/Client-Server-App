@@ -1,0 +1,10 @@
+Client: msg:oka
+Server: ack:msg:🤖 I'm still learning. You said: "oka"
+Client: msg:hh
+Server: ack:msg:🤖 I'm still learning. You said: "hh"
+Client: file:list
+Server: ack:files:dataa,eg
+Client: file:get:dataa
+Server: ack:msg:📄 dataa content:
+this is the data file
+
