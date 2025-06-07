@@ -17,12 +17,14 @@ This is a multithreaded Java-based client-server chat system with graphical inte
 
 ## 🧱 Project Structure
 
-clientserverapp/
-├── Client.java # Handles client socket and logic
-├── ClientGUI.java # GUI for client chat
-├── Server.java # Main server logic
-├── ServerGUI.java # GUI for server log and client list
-├── ClientHandler.java # Handles individual client in a thread
+- 📁 `clientserverapp/`
+  - 📄 `Client.java` – Handles client socket and communication logic
+  - 📄 `ClientGUI.java` – GUI layout and input handling for the client
+  - 📄 `Server.java` – Main server entry point and connection manager
+  - 📄 `ServerGUI.java` – Server-side GUI displaying logs and clients
+  - 📄 `ClientHandler.java` – Threaded handler for each client
+- 📁 `files/` – Directory containing `.txt` files clients can access
+
 
 ## 🧑‍💻 Authors
 
